@@ -25,6 +25,7 @@ moduleSettings = {
 		apiKey:"YOUR_API_KEY"
 	}
 }
+```
 
 The module creates a mapping for `ThreatMatches@safebrowsing` which has the following methods:
 
