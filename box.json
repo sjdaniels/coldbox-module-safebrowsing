@@ -1,9 +1,10 @@
 {
     "name":"SafeBrowsing",
-    "version":"1.0.0+0001",
+    "version":"1.0.1",
     "author":"Sean Daniels <sdaniels@padawan.net>",
     "homepage":"https://github.com/sjdaniels/coldbox-module-safebrowsing",
     "documentation":"https://github.com/sjdaniels/coldbox-module-safebrowsing/blob/master/README.md",
+    "location":"sjdaniels/coldbox-module-safebrowsing#v1.0.1",
     "repository":{
         "type":"git",
         "URL":"https://github.com/sjdaniels/coldbox-module-safebrowsing.git"
