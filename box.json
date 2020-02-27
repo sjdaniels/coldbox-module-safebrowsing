@@ -1,0 +1,28 @@
+{
+    "name":"SafeBrowsing",
+    "version":"1.0.0+0001",
+    "author":"Sean Daniels <sdaniels@padawan.net>",
+    "homepage":"https://github.com/sjdaniels/coldbox-module-safebrowsing",
+    "documentation":"https://github.com/sjdaniels/coldbox-module-safebrowsing/blob/master/README.md",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/sjdaniels/coldbox-module-safebrowsing.git"
+    },
+    "slug":"safebrowsing",
+    "shortDescription":"Service object for interacting with Google SafeBrowsing Lookup v4 API.",
+    "type":"modules",
+    "packageDirectory":"safebrowsing",
+    "keywords":[
+          "safebrowsing"
+         ,"google api"
+    ],
+    "private":false,
+    "engines":[
+        {
+            "type":"lucee",
+            "version":">5"
+        }
+    ],
+    "dependencies":{
+    }
+}
